@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm AORKO CHAKMA
 **A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
 
-Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **aorkochkma17@gmain.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Enter your project info here
 - 🌱 **I’m currently learning:** Enter your tech here
