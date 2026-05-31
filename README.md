@@ -1,7 +1,7 @@
 # Hi 👋, I'm Aorko Chakma
-### DevOps & Cloud Engineer | AWS · Kubernetes · Terraform | Based in Toronto, Canada
+### PHP Full Stack Developer | Cloud & DevOps Engineer | AWS · Kubernetes · Terraform · CI/CD | Based in Toronto, Canada
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aorko-chakma-000714172)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aorko-chakma-000714172/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aorkochkma17@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/aorko16)
 
